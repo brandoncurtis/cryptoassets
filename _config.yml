@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Brandon Curtis"
-  avatar           : "/assets/images/bc.png"
+  avatar           : "/assets/images/bc-suit.jpg"
   bio              : "Do It Yourself."
   location         : "Berkeley, CA"
   email            : "crypto@brandoncurtis.net"
@@ -257,3 +257,12 @@ defaults:
       type: asset
     values:
       layout: single
+
+# jekyll-archives for breadcrumbs
+
+jekyll-archives:
+  enabled:
+    - categories
+  layout: single
+  permalinks:
+  category: '/:name/'
