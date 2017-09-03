@@ -1,7 +1,7 @@
 ---
 title: RadarRelay
 categories: exchange
-layout: splash
+layout: single
 ---
 
 ## What is the RadarRelay Exchange?
