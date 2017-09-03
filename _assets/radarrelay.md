@@ -9,7 +9,7 @@ sidebar:
 
 ## What is the RadarRelay Exchange?
 
-RadarRelay is a trustless exchange built on the [Øx protocol](./0x).
+RadarRelay is a trustless exchange built on the [Øx protocol](/0x).
 
 RadarRelay will allow users to trade ERC-20 tokens (Ethereum network tokens like Augur, OmiseGo, Golem, &etc) without trusting eachother or RadarRelay.
 
