@@ -255,3 +255,4 @@ defaults:
       type: assets
     values:
       layout: single
+      author_profile: false
