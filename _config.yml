@@ -232,7 +232,7 @@ compress_html:
 
 # Collections
 collections:
-  asset:
+  assets:
     output: true
     permalink: /:collection/:path/
 
@@ -252,7 +252,7 @@ defaults:
   # asset
   - scope:
       path: ""
-      type: asset
+      type: assets
     values:
       layout: single
       category: asset
