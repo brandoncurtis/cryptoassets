@@ -4,6 +4,8 @@ categories: exchange
 layout: single
 ---
 
+{% include toc %}
+
 ## What is the RadarRelay Exchange?
 
 RadarRelay is a trustless exchange built on the [Øx protocol](./0x).
