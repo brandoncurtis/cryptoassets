@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Brandon Curtis"
+  avatar           : "/assets/images/bc.png"
+  bio              : "Do It Yourself."
+  location         : "Berkeley, CA"
+  email            : "crypto@brandoncurtis.net"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,10 +89,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "brandoncurtis"
   gitlab           :
   google_plus      :
-  keybase          :
+  keybase          : "brandoncurtis"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
@@ -231,6 +231,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  asset:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -245,3 +250,9 @@ defaults:
       comments: # true
       share: true
       related: true
+  # asset
+  - scope:
+      path: ""
+      type: asset
+    values:
+      layout: single
