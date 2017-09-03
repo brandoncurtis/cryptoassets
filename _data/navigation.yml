@@ -23,8 +23,8 @@ main:
   - title: Øx Project
     children:
     - title: "Øx Project"
-      url: /assets/0x
+      url: /asset/0x
     - title: "ZRX Token"
-      url: /assets/zrx
+      url: /asset/zrx
     - title: "RadarRelay"
-      url: /assets/radarrelay
+      url: /asset/radarrelay
