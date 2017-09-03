@@ -14,6 +14,7 @@ description              : "An amazing website."
 url                      : "https://tokenpla.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : brandoncurtis/cryptoassets # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+icon                     : "/assets/images/icons/android-chrome-192x192.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
