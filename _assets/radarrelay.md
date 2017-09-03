@@ -2,7 +2,7 @@
 title: RadarRelay
 categories: exchange
 sidebar:
-  nav: "docs"
+  nav: "0x"
 ---
 
 {% include toc %}
