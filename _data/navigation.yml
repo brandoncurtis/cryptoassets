@@ -3,7 +3,13 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Assets"
-    url: /assets/
+    url: /#asset
+  - title: "Currencies"
+    url: /#currency
+  - title: "Projects"
+    url: /#project
+  - title: "Exchanges"
+    url: /#exchange
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
