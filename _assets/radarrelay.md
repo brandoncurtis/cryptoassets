@@ -1,7 +1,8 @@
 ---
 title: RadarRelay
 categories: exchange
-layout: single
+sidebar:
+  nav: "docs"
 ---
 
 {% include toc %}

@@ -18,3 +18,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+0x:
+  - title: Øx Project
+    children:
+    - title: "Øx Project"
+      url: /assets/0x
+    - title: "ZRX Token"
+      url: /assets/zrx
+    - title: "RadarRelay"
+      url: /assets/radarrelay
