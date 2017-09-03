@@ -1,6 +1,6 @@
 ---
 title: Asset Index
-url: /asset
+permalink: /asset
 ---
 
 Here is a test!
