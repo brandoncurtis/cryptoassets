@@ -234,7 +234,7 @@ compress_html:
 collections:
   assets:
     output: true
-    permalink: /:collection/:path/
+    permalink: /asset/:path/
 
 # Defaults
 defaults:

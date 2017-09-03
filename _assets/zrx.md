@@ -5,4 +5,4 @@ sidebar:
   nav: "0x"
 ---
 
-The Ethereum utility token for the [Øx protocol]({{ assets/0x | absolute_url }}).
+The Ethereum utility token for the [Øx protocol]({{ "asset/0x" | absolute_url }}).
