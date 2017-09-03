@@ -185,7 +185,6 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -194,7 +193,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-archives
 
 # Archives
 #  Type
@@ -208,7 +206,7 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /
 tag_archive:
   type: liquid
   path: /tags/
@@ -257,12 +255,4 @@ defaults:
       type: asset
     values:
       layout: single
-
-# jekyll-archives for breadcrumbs
-
-jekyll-archives:
-  enabled:
-    - categories
-  layout: single
-  permalinks:
-  category: '/:name/'
+      category: asset
