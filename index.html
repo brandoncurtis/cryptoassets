@@ -1,7 +1,18 @@
 ---
-layout: home
+layout: archive
 author_profile: true
 ---
 
 Organizing information to help you navigate the brave new world
 of cryptocurrencies and tokenized cryptoassets.
+
+{% include group-by-array collection=site.assets field="categories" %}
+
+{% for category in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
+
