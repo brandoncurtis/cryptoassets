@@ -14,7 +14,7 @@ RadarRelay is a trustless exchange built on the [Øx protocol](/0x).
 RadarRelay will allow users to trade ERC-20 tokens (Ethereum network tokens like Augur, OmiseGo, Golem, &etc) without trusting eachother or RadarRelay.
 
 + [RadarRelay site](https://radarrelay.com/)
-+ the team is active on [Twitter](https://twitter.com/RadarRelay) and [Medium](https://medium.com/@radarrelay) and has a Slack community
++ the team is active on [Twitter](https://twitter.com/RadarRelay), [Medium](https://medium.com/@radarrelay), [Slack](https://radarrelay.slack.com/), and [Reddit](https://www.reddit.com/r/Radar_Relay/)
 
 ## Exchange Beta
 
@@ -132,7 +132,7 @@ If you inspect your address in etherscan.io, your ETH-WETH wrapping transactions
 
 [es-kovan-tokens]: https://kovan.etherscan.io/token-search
 [makerdao-docs]: https://github.com/OasisDEX/oasis/wiki#allowance
-[ox-otc]: https://0xproject.com/otc/balances
+[ox-otc]: https://0xproject.com/portal/balances
 [add-mainnet-weth]: https://etherscan.io/address/0x2956356cd2a2bf3202f771f50d3d14a367b48070
 [add-weth]: https://kovan.etherscan.io/address/0x05d090b51c40b020eab3bfcb6a2dff130df22e9c
 [add-mkr]: https://kovan.etherscan.io/address/0x1dad4783cf3fe3085c1426157ab175a6119a04ba
